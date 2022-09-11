@@ -142,20 +142,10 @@
                         </a>
                       </li>
                       <li class="treeview">
-                        <a href="#">
+                        <a href="index.php?pag=lista_usuario">
                         <i class="fa fa-users"></i>
-                        <span>Servidores</span>
-                        <i class="fa fa-angle-left pull-right"></i>
+                        <span>Servidores</span>                        
                         </a>
-
-                        <ul class="treeview-menu">
-                         <li><a href="index.php?pag=cadastro_usuario"><i class="fa fa-angle-right"></i> Cadastrar</a></li>                           
-                        </ul>
-
-                        <ul class="treeview-menu">
-                         <li><a href="index.php?pag=lista_usuario"><i class="fa fa-angle-right"></i> Listar</a></li>                           
-                        </ul>
-
                       </li>            
                       
                         <li class="treeview">
@@ -202,8 +192,9 @@
                         </a>                    
                         <ul class="treeview-menu">
                           <li><a href="forms.html"><i class="fa fa-angle-right"></i> Atos </a></li>
-                          <li><a href="index.php?pag=relatorio_servidores"><i class="fa fa-angle-right"></i> Instruções </a></li>
-                          <li><a href="index.php?pag=relatorio_servidores"><i class="fa fa-angle-right"></i> Manuais </a></li>
+                          <li><a href="https://www.tjpe.jus.br/documents/10180/0/-/f8e607be-c5e2-243c-84cf-b66a73c77d65"><i class="fa fa-angle-right"></i> Enunciados </a></li>
+                          <li><a href="https://www.gilbertomelo.com.br/pdf/Instrucao_de_Servico_Contadores_DJ185_2011_05_10_2011_TJPE.pdf"><i class="fa fa-angle-right"></i> Instruções </a></li>
+                          <li><a href="#"><i class="fa fa-angle-right"></i> Manuais </a></li>
                           <li><a href="index.php?pag=relatorio_servidores"><i class="fa fa-angle-right"></i> Certidões </a></li>
                           <li><a href="index.php?pag=relatorio_servidores"><i class="fa fa-angle-right"></i> Planilhas </a></li>                                                                 
                         </ul>
@@ -225,6 +216,8 @@
                         <i class="fa fa-angle-left pull-right"></i>
                         </a>                    
                         <ul class="treeview-menu">
+                        <li><a href="https://pje.tjpe.jus.br/1g/login.seam"><i class="fa fa-angle-right"></i> PJE </a></li>
+                        <li><a href="https://www.tjpe.jus.br/custasjudiciais/xhtml/main.xhtml"><i class="fa fa-angle-right"></i> SICAJUD </a></li>
                           <li><a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><i class="fa fa-angle-right"></i> Séries Temporais - BCB </a></li>
                           <li><a href="https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&id_pagina=3176"><i class="fa fa-angle-right"></i> POUPNET </a></li>
                           <li><a href="https://www.gilbertomelo.com.br/"><i class="fa fa-angle-right"></i> Tabela ENCOGE </a></li>
